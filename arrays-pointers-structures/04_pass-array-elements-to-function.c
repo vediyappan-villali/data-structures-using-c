@@ -1,5 +1,5 @@
 /*
- * Description: C program to illustrate passing array elements to a function.
+ * Description: C program to illustrate passing array elements to the function.
  *
  * Author: Vediyappan Villali
  * Courtesy: Suresh Kumar Srivastava, Deepali Srivastava
