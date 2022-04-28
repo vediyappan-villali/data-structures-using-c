@@ -1,5 +1,5 @@
 /* 
- * Description: C program to illustrate reverseing the elements of an array.
+ * Description: C program to illustrate reversing the elements of an array.
  *
  * Author: Vediyappan Villali
  * Courtesy: Suresh Kumar Srivastava, Deepali Srivastava
